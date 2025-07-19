@@ -12,6 +12,8 @@ This project began as a secure memory manager with tamper-aware wiping, but evol
 
 ![Recording 2025-07-19 043717](https://github.com/user-attachments/assets/aa466bf5-310e-423f-b22a-6ae98d6d327b)
 
+> Wanna know how it works? Check out [crashshell/windows/wincrash.py](https://github.com/0xIkari/Python-VEH-CrashShell-PoC/blob/main/crashshell/windows/wincrash.py)
+
 ---
 
 ## Key Features
