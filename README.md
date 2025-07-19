@@ -8,6 +8,10 @@
 
 This project began as a secure memory manager with tamper-aware wiping, but evolved into an exploration of what can be done *between a crash and Windows exception handling*. The result is a **crash-triggered, memory-resident, page-protected reverse shell launcher** written entirely in Python.
 
+## Showcase
+
+![Recording 2025-07-19 043717](https://github.com/user-attachments/assets/aa466bf5-310e-423f-b22a-6ae98d6d327b)
+
 ---
 
 ## Key Features
