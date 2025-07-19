@@ -64,7 +64,7 @@ CrashShell demonstrates that:
 - Secure memory routines must account for fault-path logic
 - Memory exfil can be hidden behind intentional crash behavior
 
-- ## Want SecureMemory?
+## Want SecureMemory?
 
 > https://github.com/nuclear-treestump/EEEE Work In Progress
 
